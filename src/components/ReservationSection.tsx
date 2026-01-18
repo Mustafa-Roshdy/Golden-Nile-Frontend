@@ -105,7 +105,7 @@ const ReservationSection = () => {
               </div>
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-2 line-clamp-1">{item.title}</h3>
-                <p className="text-muted-foreground text-sm mb-4 line-clamp-4">
+                <p className="text-muted-foreground text-sm mb-4 line-clamp-3">
                   {item.description}
                 </p>
                 <div className="flex items-center justify-between">
